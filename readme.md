@@ -2,8 +2,8 @@
 
 ### Palestra ainda não disponivel
 
-- [ ] Slides
+- [x] Slides
 - [x] Caso de Uso
 - [x] Melhores pratícas debuggin de PWAs
-- [ ] Colocar Arquivos no github
-- [ ] Hospedar Caso de Uso
+- [x] Colocar Arquivos no github
+- [x] Hospedar Caso de Uso
