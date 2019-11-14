@@ -1,6 +1,5 @@
-# TODO
 
-### Palestra ainda não disponivel
+### Palestra  disponivel
 
 - [x] Slides
 - [x] Caso de Uso
